@@ -1,0 +1,14 @@
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/bin/Debug/net8.0/TestProject
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/danielhickinbottom/projects/cSharpCourse/TestProject/obj/Debug/net8.0/ref/TestProject.dll
